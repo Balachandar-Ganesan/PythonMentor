@@ -1,0 +1,8 @@
+import datetime
+dir(datetime)
+dir(datetime.date)
+help(datetime)
+
+__Code__.co_code
+__Code__.co_consts
+__Code__.co_varnames
