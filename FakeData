@@ -1,0 +1,21 @@
+{'id': 1, 'name': 'Clarke LLC Store', 'city': 'North Lisaport', 'state': 'MT', 'zip_code': '79727', 'Country': 'New Caledonia'}
+{'id': 2, 'name': 'Young Ltd Store', 'city': 'Lake Judyport', 'state': 'SD', 'zip_code': '54267', 'Country': 'Tunisia'}
+{'id': 3, 'name': 'Ross and Sons Store', 'city': 'Juanmouth', 'state': 'OR', 'zip_code': '06704', 'Country': 'Timor-Leste'}
+{'id': 4, 'name': 'Malone Ltd Store', 'city': 'Edwardshaven', 'state': 'AK', 'zip_code': '59910', 'Country': 'Turkey'}
+{'id': 5, 'name': 'Diaz, Hoffman and Vaughn Store', 'city': 'Ayersfort', 'state': 'FM', 'zip_code': '26576', 'Country': 'Uzbekistan'}
+
+
+{'product_id': 'a1d41ec8-7a78-44d0-90ef-62bb3e6a3cdc', 'name': 'Perform', 'description': 'Expect middle defense consider news bill three common. Mother certainly goal during language. Source crime action hope nice must value.', 'price': 220.13, 'category': 'Electronics', 'stock_quantity': 98, 'manufacturer': 'Gomez, Bailey and Zimmerman'}
+{'product_id': '5a0c664c-ccc4-45f5-b6a9-61ee9841cc1e', 'name': 'Large be', 'description': 'World indicate staff everybody strategy season kid improve. Part radio set sort image measure site. Maintain hundred subject.', 'price': 330.75, 'category': 'Electronics', 'stock_quantity': 31, 'manufacturer': 'Lewis Ltd'}
+{'product_id': 'acbab7b9-db7a-43af-95fc-3d67d1633914', 'name': 'Community specific order', 'description': 'Hit everyone executive ok summer building similar. Join wall hear. Beat ever station general effect stock.\nCareer official tend next top.', 'price': 450.06, 'category': 'Home Goods', 'stock_quantity': 67, 'manufacturer': 'Waller-Schwartz'}
+{'product_id': '11a55d7e-788d-4433-9795-943750da9efb', 'name': 'Stock write', 'description': 'Reality ask force radio early chair. Ten base memory parent our. Hundred full both friend.', 'price': 767.4, 'category': 'Electronics', 'stock_quantity': 92, 'manufacturer': 'Rogers, Diaz and Bush'}
+{'product_id': 'b04dacee-1c61-402f-a452-591e11e08cfb', 'name': 'List member', 'description': 'Note how Mrs energy I name matter. Friend too six check hair.\nCandidate series girl instead suffer opportunity church member.', 'price': 340.09, 'category': 'Apparel', 'stock_quantity': 30, 'manufacturer': 'Saunders, Meyer and English'}
+{'product_id': '79fe505a-0dd4-4922-97f1-16f558a76d80', 'name': 'Major go create strong', 'description': 'Sometimes pull young ahead reveal. Become big politics question market onto conference. Business culture citizen thousand animal medical force.', 'price': 798.67, 'category': 'Home Goods', 'stock_quantity': 89, 'manufacturer': 'Jones PLC'}
+{'product_id': 'fed6051a-a161-44d0-acbf-cff21a180d80', 'name': 'Fact two', 'description': 'Blood way college face report everybody explain. Court American language.\nInterest story rate parent.', 'price': 183.86, 'category': 'Apparel', 'stock_quantity': 61, 'manufacturer': 'Lopez, Murray and Gillespie'}
+{'product_id': 'd8665a0d-64f7-49a7-80a8-8467b913f4bd', 'name': 'Director want', 'description': 'Paper join born song. Everything chair about successful minute win. Determine prepare final my center.', 'price': 275.43, 'category': 'Books', 'stock_quantity': 78, 'manufacturer': 'Mccarthy, Hernandez and Esparza'}
+{'product_id': '776e58e9-5f3a-4998-b05a-47ab07195eee', 'name': 'Fear', 'description': 'Parent serious believe. Hold food loss which American show their.\nShe consumer spend already. Begin sure every door college.', 'price': 678.52, 'category': 'Apparel', 'stock_quantity': 91, 'manufacturer': 'Parker-Mendoza'}
+{'product_id': '5df60397-ec73-466a-b56c-6e5994cf3282', 'name': 'Doctor wind list', 'description': 'Significant watch public seven before. Enough himself person use.', 'price': 341.34, 'category': 'Apparel', 'stock_quantity': 8, 'manufacturer': 'Miles-Day'}
+
+
+
+
